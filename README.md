@@ -1,2 +1,2 @@
-# Meeting Minutes
+# Meetings
 Agenda and minutes from committee meetings
