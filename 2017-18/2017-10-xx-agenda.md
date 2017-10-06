@@ -13,4 +13,6 @@
 
 ### Welcome Meeting v2.0 update
 
+### Money from NGC
+
 ### Any other business
