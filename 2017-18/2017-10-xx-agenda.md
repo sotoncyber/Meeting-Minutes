@@ -16,3 +16,4 @@
 ### Money from NGC
 
 ### Any other business
+* We should sort out the bank account
