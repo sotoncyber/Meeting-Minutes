@@ -15,5 +15,7 @@
 
 ### Money from NGC
 
+### Social on 5/11
+
 ### Any other business
 * We should sort out the bank account
