@@ -1,5 +1,7 @@
 # SUCSS AGM 2017/18 Agenda
 
+Date: TBC
+
 ### Introduction 
 - A quick welcome to the meeting. 
 - Go through the AGM section of the constitution so everyone knows what's going on.
