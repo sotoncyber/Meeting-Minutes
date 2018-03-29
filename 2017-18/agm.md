@@ -12,7 +12,7 @@ Date: TBC
 - We'll go round the committee who will talk about what's happened over the previous year.
 
 ### Election Structure
-- Candidates who wish to run should nominate themselves by sending a manifesto via email to sucss@soton.ac.uk before the meeting.
+- Candidates who wish to run should nominate themselves by sending a manifesto via email to sucss@soton.ac.uk before the meeting takes place.
 - Positions are run through one by one, with nominated candidates presenting their manifestos in a time-limited fashion.
 - This speech is followed by questions, which are typically asked in a general fashion and then all candidates for a position are given the opportunity to answer.
 
