@@ -11,14 +11,17 @@ Date: TBC
 ### Presentations by current committee
 - We'll go round the committee who will talk about what's happened over the previous year.
 
-### Election Structure
+### Election
 - Candidates who wish to run should nominate themselves by sending a manifesto via email to sucss@soton.ac.uk before the meeting takes place. This keeps it fair so people can still run, even if they can't make the AGM.
-- Positions are run through one by one, with nominated candidates presenting their manifestos in a time-limited fashion.
+- Positions (See Appendix A) are run through one by one, with nominated candidates presenting their manifestos in a time-limited fashion.
 - This speech is followed by questions, which are typically asked in a general fashion and then all candidates for a position are given the opportunity to answer.
 - Unfortunately, our [constitution](constitution.pdf) does not allow for proxy voting, so if you can't make the AGM, sadly you can't vote.
 
+### AOB (Any Other Business)
+- If you would like to add any AOB to be discussed at the meeting, please email sucss@soton.ac.uk at least 24hrs in advance.
 
-### Available Positions
+
+### Appendix A: Available Positions
 
 #### President
 *The President shall oversee the organisation and management of the Group and the Committee as a whole; ensure the officers’ accountability to Members, the Committee, and the Students’ Union; and represent the Group to all external interests.*
