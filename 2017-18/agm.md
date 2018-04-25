@@ -1,6 +1,8 @@
 # SUCSS AGM 2017/18 Agenda
 
-Date: TBC
+Date: 02/05/2018
+Time: 18:00-20:00
+Location: 67/1027
 
 ### Introduction 
 - A quick welcome to the meeting. 
