@@ -4,7 +4,7 @@ Date: TBC
 
 ### Introduction 
 - A quick welcome to the meeting. 
-- Go through the AGM section of the [constitution](constitution.pdf) so everyone knows what's going on.
+- Go through the AGM section of the [constitution](../constitution.pdf) so everyone knows what's going on.
 - Ask if anyone wishes the vote to be a secret ballot, in which case paper will be handed out for voting. 
 - As per our [constitution](../constitution.pdf), the votes will be counted and recorded by the chair of the meeting.
 
