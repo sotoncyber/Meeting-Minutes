@@ -44,4 +44,4 @@ Location: 67/1027
 *The Technical Officer is primarily responsible for the technical aspects of the Group such as hardware and development of other technical items. They may also be required to coordinate with the Webmaster from time to time.*
 
 #### Webmaster
-*The Webmaster shall be primarily responsible for the running and development of the website. They shall also coordinate with the Technical Officer where appropriate.The Webmaster shall be primarily responsible for the running and development of the website. They shall also coordinate with the Technical Officer where appropriate.*
+*The Webmaster shall be primarily responsible for the running and development of the website. They shall also coordinate with the Technical Officer where appropriate.*
