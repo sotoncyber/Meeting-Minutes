@@ -22,7 +22,7 @@ Agenda and minutes from committee meetings
 |**Vice President**   |	Jamie Scott|
 |**Technical Officer**|	Kajusz Dykiel|
 |**Secretary**        |	David Young|
-|**Treasurer**        |	Izzy Whistlecroft (resigned 19/10/17), then Will Barber by EGM.|
+|**Treasurer**        |	Izzy Whistlecroft (resigned 19/10/17)<br>Will Barber|
 |**Social Secretary** |	Tom Charter|
 |**Webmaster**        | Laurie Kirkcaldy |
 
