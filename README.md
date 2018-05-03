@@ -1,7 +1,7 @@
 # Meetings
 Agenda and minutes from committee meetings
 
-<br><br><br>
+<br>
 
 ## 2018-19 Committee
 
