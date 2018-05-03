@@ -45,10 +45,30 @@ Agenda and minutes from committee meetings
 | Position | Person |
 | --- | --- |
 |**President**        | Giles Howard|
-|**Vice President**   | None|
+|**Vice President**   | Bence Szikora	|
 |**Technical Officer**|	Mohit Gupta|
 |**Secretary**        |	Luke Pullman|
 |**Treasurer**        |	Yordan Ganchev|
 |**Social Secretary** |	Charlie Marshall|
 |**Webmaster**        |	Josh Curry|
 
+## 2014-15 Committee
+
+| Position | Person |
+| --- | --- |
+|**President**        | Mohit Gupta|
+|**Vice President**   | Giles Howard	|
+|**Secretary**        |	James Patrick-Evans|
+|**Treasurer**        |	Kiran Mistry|
+|**Social Secretary** |	Charlie Marshall|
+
+
+## 2013-14 Committee
+
+| Position | Person |
+| --- | --- |
+|**President**        | Joel Clark|
+|**Vice President**   | Mohit Gupta	|
+|**Events Officer**   | Kiran Mistry	|
+
+Society Founded 01/07/2013
