@@ -373,7 +373,8 @@ If I'm too busy president can take it up
 Questions
 
 (George) - This year, the committee has gone through some interesting times putting certain people under a lot of pressure. How would > you plan to A) prevent this B) stop this sort of situation again
-Have spoken to many students and staff
+
+>Have spoken to many students and staff
 It needs to be de-escalated - better to talk with each other and be open
 Any problems should be put to a vote
 People should say if they disagree
