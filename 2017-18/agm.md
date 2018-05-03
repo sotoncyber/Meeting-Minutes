@@ -1,4 +1,4 @@
-# SUCSS AGM 2017/18 Agenda
+# SUCSS AGM 2017/18 Minutes
 
 Date: 02/05/2018
 Time: 18:00-20:00
@@ -11,7 +11,7 @@ Agenda available [here](./agm-agenda.md)
 Josh talked about what we've done as a society throughout the year.
 - Lots more events than last year
 - Loads more members!
-Josh then invited the other committee members to say what they had done - and then skipped them
+- Josh then invited the other committee members to say what they had done - and then skipped them
 
 Josh then went through the roles that are available to be run for and what they involve
 
