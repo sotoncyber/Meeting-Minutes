@@ -1,6 +1,8 @@
 # Meetings
 Agenda and minutes from committee meetings
 
+<br><br><br>
+
 # Committee History
 ## 2018-19 Committee
 
@@ -71,4 +73,4 @@ Agenda and minutes from committee meetings
 |**Vice President**   | Mohit Gupta	|
 |**Events Officer**   | Kiran Mistry	|
 
-Society Founded 01/07/2013
+*Society Founded 01/07/2013*
