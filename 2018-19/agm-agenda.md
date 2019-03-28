@@ -1,6 +1,6 @@
 # SUCSS AGM 2019 Agenda
 
-Date: 02/05/2018
+Date: 02/05/2019
 Time: 18:00-20:00
 Location: 58/1065
 
