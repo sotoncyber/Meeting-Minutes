@@ -3,6 +3,18 @@ Agenda and minutes from committee meetings
 
 <br>
 
+## 2019-20 Commitee
+
+| Position | Person |
+| --- | --- |
+|**President**        |	Viktor Barzin|
+|**Vice President**   |	Jury D'Alessio|
+|**Technical Officer**|	Tim Stallard|
+|**Secretary**        |	Alex Lockwood|
+|**Treasurer**        |	Phoebe Frere|
+|**Social Secretary** |	*Vacant*|
+|**Webmaster**        | Atanas Yankov |
+
 ## 2018-19 Committee
 
 | Position | Person |
